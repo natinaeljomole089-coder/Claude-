@@ -1,0 +1,6 @@
+{
+  "name": "Sales Coaching Intelligence Platform",
+  "description": "Upload a sales call audio or record one to get a diarized transcript, sentiment graph, and AI-generated coaching card with positives and missed opportunities.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
